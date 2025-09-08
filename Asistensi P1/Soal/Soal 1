@@ -1,0 +1,19 @@
+Buatkan algoritma untuk menghitung jumlah uang kembalian dalam pecahan.
+
+Contoh Input :
+Masukkan total belanja : 134000
+Masukkan jumlah uang yang dibayar : 163000
+
+Contoh Output :
+Kembalian : 29000
+
+Pecahan Uang Kembalian :
+50000 : 0
+20000 : 1
+10000 : 1
+5000  : 1
+2000  : 2 
+1000  : 0
+
+*Mohon kerjakan di laptop kalian untuk ditunjukkan pas asistensi
+**Untuk yang diisi di laporan tugas asistensi adalah source code dan penjelasan singkat

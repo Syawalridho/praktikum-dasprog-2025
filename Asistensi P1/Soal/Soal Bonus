@@ -1,0 +1,20 @@
+*Soal bonus ini bila bisa kalian kerjakan dan bisa menjelaskan
+secara langsung dapat tambahan nilai
+
+Buatkan algoritma untuk mengetahui apakah tahun kabisat atau tidak
+
+Contoh input :
+2013
+
+Contoh Output :
+2013 Bukan tahun kabisat
+
+Contoh input 2 :
+2020
+
+Contoh Output 2 :
+2020 adalah tahun kabisat
+
+*Jika dikerjakan maka tulis source code saja di laporan tugas asistensi 
+(Penjelasannya tidak perlu)
+
