@@ -1,0 +1,14 @@
+*Soal bonus ini bila bisa kalian kerjakan dan bisa menjelaskan
+secara langsung dapat tambahan nilai
+
+Buatkan soal nomor 2 dengan menggunakan fungsi dengan
+yang ada di dalam int main() hanya sebuah input (scanf()) dan fungsi yang ingin dipanggil atau output (printf()). 
+
+Contoh sebuah fungsi:
+void CekSegitiga {
+
+    return Hasil
+}
+
+**Jika dikerjakan maka tulis source code saja di laporan tugas asistensi 
+(Penjelasannya tidak perlu)

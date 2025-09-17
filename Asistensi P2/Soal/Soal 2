@@ -1,0 +1,23 @@
+*Mohon kerjakan di laptop kalian untuk ditunjukkan pas asistensi
+**Untuk yang diisi di laporan tugas asistensi adalah source code dan penjelasan singkat
+
+Buatlah sebuah program yang mengetahui apakah segitiga itu adalah
+Segitiga siku siku, segitiga sama sisi, segitiga sembarang, Segitiga sama kaki atau tidak membentuk segitiga
+
+Contoh Input 1 :
+Masukkan sisi pertama : 5
+Masukkan sisi kedua : 5
+Masukkan sisi ketiga : 5
+
+Contoh Output 1 :
+Segitiga sama sisi
+
+Contoh Input 2 :
+Masukkan sisi : 5
+Masukkan sisi kedua : 4
+Masukkan sisi ketiga : 8
+
+Contoh Output 2:
+Segitiga Sembarang
+
+
