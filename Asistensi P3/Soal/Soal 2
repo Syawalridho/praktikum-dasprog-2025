@@ -1,0 +1,16 @@
+*Mohon kerjakan di laptop kalian untuk ditunjukkan pas asistensi
+**Untuk yang diisi di laporan tugas asistensi adalah source code dan penjelasan singkat
+
+Buatlah sebuah fungsi untuk mengecek apakah bilangan ini sebuah prima atau tidak
+
+Contoh Input:
+cekPrima(13)
+
+Contoh Output:
+Bilangan ini prima
+
+Contoh Input:
+cekPrima(8)
+
+Contoh Output:
+Bilangan ini bukan prima

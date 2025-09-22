@@ -1,0 +1,17 @@
+*Mohon kerjakan di laptop kalian untuk ditunjukkan pas asistensi
+**Untuk yang diisi di laporan tugas asistensi adalah source code dan penjelasan singkat
+
+Buatlah sebuah program bilangan pangkat dengan fungsi rekursi
+
+Contoh Input:
+pangkat(2,3)
+
+Contoh Output:
+8
+
+Contoh Input:
+pangkat(3,2)
+
+Contoh Output:
+
+9
