@@ -1,0 +1,25 @@
+*Mohon kerjakan di laptop kalian untuk ditunjukkan pas asistensi
+**Untuk yang diisi di laporan tugas asistensi adalah source code dan penjelasan singkat
+
+Buatlah sebuah program untuk menyimpan nilai yang dapat dilihat pada list sederhana.
+
+Contoh Output:
+1. Tambah nilai
+2. Hapus nilai
+3. Tampilkan list
+4. Keluar
+Pilih: 1
+Masukkan nilai: 5
+Pilih: 1
+Masukkan nilai: 10
+Pilih: 3
+Isi list: 5, 10
+Pilih: 2
+Nilai yang ingin dihapus: 4
+Nilai tidak ditemukan.
+Pilih: 2
+Nilai yang ingin dihapus: 5
+Nilai berhasil dihapus.
+
+
+
